@@ -318,6 +318,6 @@ RHS
     RHS       Ramp_Down_Unit5_t2   4.000000000000e+01
     RHS       Ramp_Up_Unit5_t3   1.000000000000e+01
     RHS       Ramp_Down_Unit5_t3   4.000000000000e+01
-    RHS       Fix_Unit1_Time1_Output   4.100000000000e+01
+    RHS       Fix_Unit1_Time1_Output   5.000000000000e+01
 BOUNDS
 ENDATA
